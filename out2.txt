@@ -1,0 +1,6 @@
+carpeta1
+menubase.sh
+out2.txt
+out.txt
+prueba1.txt
+prueba2.txt
